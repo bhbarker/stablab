@@ -15,6 +15,7 @@ disp('synclient HorizEdgeScroll=0 HorizTwoFingerScroll=0');
 eval(['addpath ',pwd,'/bin/PolyfitnTools/PolyfitnTools'])
 eval(['addpath ',pwd,'/bin'])
 eval(['addpath ',pwd,'/bin/bin_profile'])
+eval(['addpath ',pwd,'/bin/time_evolution'])
 eval(['addpath ',pwd,'/bin/bin_root_finding'])
 eval(['addpath ',pwd,'/bin/bin_main']);
 
